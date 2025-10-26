@@ -1,10 +1,14 @@
-<!-- ROMA -->
+<!-- ⚡ Cyberpunk Lo-Fi GitHub Profile by aslameD -->
 
 <h1 align="center">
   <span style="color:#00ffff; text-shadow: 0 0 6px #00ffff, 0 0 15px #00ffff, 0 0 30px #00ffff;">
-    ROMA
+    ⚡ Welcome to aslameD’s Cyber World ⚡
   </span>
 </h1>
+
+<p align="center">
+  <img src="https://i.gifer.com/2qQQ.gif" width="100%" height="180px" alt="neon cyberpunk sub-banner"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Cyberpunk+Lo-Fi+Dev+Mode;Building+Neon+Dreams;Welcome+to+the+Matrix;Just+Code+and+Vibes..." alt="Typing SVG" />
@@ -56,4 +60,9 @@
 
 <p align="center">
   <i style="color:#00ffff">"Keep coding under neon lights..." 🌃</i>
+</p>
+
+<!-- 🌈 Neon bottom line -->
+<p align="center">
+  <img src="https://i.imgur.com/zYF4XyW.png" width="100%" height="4px" alt="neon line" style="opacity:0.8;"/>
 </p>
