@@ -4,7 +4,7 @@
 
   <!-- Баннер -->
   <p align="center">
-    <img src="https://tenor.com/jcCvc4hWsUb.gif" alt="banner"/>
+    <img src="https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp" alt="banner"/>
   </p>
 
   <!-- Мигающий текст как GIF (загрузи assets/hello-flicker.gif в свой репозиторий) -->
