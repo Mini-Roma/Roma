@@ -1,29 +1,20 @@
-<!-- 🖤 Minimal Cyberpunk Profile by Roma -->
+<!-- 🖤 Mr.Robot Terminal Vibe by Roma -->
 
-<div align="center" style="background-color:#000000; padding:80px 0; color:#00ffff; font-family:monospace;">
-
-<h1 style="font-size:60px; text-shadow: 0 0 10px #00ffff, 0 0 25px #00ffff;">
-  Roma
-</h1>
-
-<p style="font-size:22px; text-shadow: 0 0 8px #00ffff;">
-  eбaшу кодинг c ☕
-</p>
+<div align="center" style="background-color:#000000; padding:80px 0; font-family:'Courier New', monospace;">
 
 <!-- Баннер -->
 <p align="center">
   <img src="https://i.gifer.com/BjPl.gif" alt="cyberpunk banner"/>
 </p>
 
-<!-- Тускло-зелёный текст -->
-<h2 style="color:#00ff66; text-shadow: 0 0 5px #007733, 0 0 10px #004422; font-weight:normal;">
+<!-- Тусклый зелёный терминальный текст -->
+<h2 style="color:#00ff66; text-shadow: 0 0 4px #009933; font-weight:normal; letter-spacing:1px; margin-top:40px;">
   hello friend_
 </h2>
 
-<!-- О себе -->
-<p style="color:#00ffff; font-size:18px; text-shadow: 0 0 8px #00ffff;">
+<!-- Подпись -->
+<p style="color:#00ffff; font-size:17px; text-shadow: 0 0 6px #00cccc;">
   me Roma. ebashu coding with coffee ☕
 </p>
 
 </div>
-
