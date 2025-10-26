@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/2qQQ.gif" width="100%" height="180px" alt="neon cyberpunk sub-banner"/>
+  <img src="https://i.gifer.com/2qQQ.gif" width="100%" height="220px" alt="cyberpunk under-banner"/>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
   <i style="color:#00ffff">"Keep coding under neon lights..." 🌃</i>
 </p>
 
-<!-- 🌈 Neon bottom line -->
+<!-- Neon line footer -->
 <p align="center">
-  <img src="https://i.imgur.com/zYF4XyW.png" width="100%" height="4px" alt="neon line" style="opacity:0.8;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00ffff&section=footer" />
 </p>
