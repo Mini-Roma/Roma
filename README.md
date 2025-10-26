@@ -1,4 +1,4 @@
-<!-- 🖤 Mr.Robot Terminal Vibe by Roma -->
+<!-- 💀 Mr. Robot Neon Terminal by Roma -->
 
 <div align="center" style="background-color:#000000; padding:80px 0; font-family:'Courier New', monospace;">
 
@@ -7,8 +7,20 @@
   <img src="https://i.gifer.com/BjPl.gif" alt="cyberpunk banner"/>
 </p>
 
-<!-- Тусклый зелёный терминальный текст -->
-<h2 style="color:#00ff66; text-shadow: 0 0 4px #009933; font-weight:normal; letter-spacing:1px; margin-top:40px;">
+<!-- Анимация для мигания -->
+<style>
+@keyframes flicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    opacity: 1;
+  }
+  20%, 24%, 55% {
+    opacity: 0.3;
+  }
+}
+</style>
+
+<!-- Мигающий зелёный текст -->
+<h2 style="color:#00ff66; text-shadow: 0 0 5px #00ff66, 0 0 20px #009933; font-weight:normal; letter-spacing:1px; margin-top:40px; animation: flicker 2s infinite;">
   hello friend_
 </h2>
 
@@ -18,3 +30,4 @@
 </p>
 
 </div>
+
