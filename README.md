@@ -1,7 +1,9 @@
-<!-- ⚡ Cyberpunk Lo-Fi GitHub Profile by aslameD -->
+<!-- 🌌 Cyberpunk Lo-Fi Profile – Black Neon Edition by aslameD -->
+
+<div style="background-color:#000000; padding:30px; border-radius:20px;">
 
 <h1 align="center">
-  <span style="color:#00ffff; text-shadow: 0 0 6px #00ffff, 0 0 15px #00ffff, 0 0 30px #00ffff;">
+  <span style="color:#00ffff; text-shadow: 0 0 10px #00ffff, 0 0 25px #00ffff, 0 0 50px #00ffff;">
     ⚡ Welcome to aslameD’s Cyber World ⚡
   </span>
 </h1>
@@ -18,12 +20,12 @@
 
 ### 💿 About Me
 
-> “Between code and soundwaves, I find my calm.”
+> <span style="color:#00ffff;">“Between code and soundwaves, I find my calm.”</span>
 
-- 💻 Frontend & Creative Developer  
-- 🌆 Obsessed with **cyberpunk art** and **lo-fi beats**  
-- 🎧 Always coding under **neon lights**  
-- ⚙️ Turning ideas into glowing realities  
+- 💻 <span style="color:#FF00FF;">Frontend & Creative Developer</span>  
+- 🌆 Inspired by **Cyberpunk aesthetics & Lo-Fi beats**  
+- 🎧 Coding under **neon reflections**  
+- ⚙️ Building ideas that glow in the dark  
 
 ---
 
@@ -40,10 +42,10 @@
 ### 🧠 Skills & Tech
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-1A1A2E?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1A1A2E?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/C++-1A1A2E?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/VS%20Code-1A1A2E?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF" />
 </p>
 
 ---
@@ -59,10 +61,13 @@
 ---
 
 <p align="center">
-  <i style="color:#00ffff">"Keep coding under neon lights..." 🌃</i>
+  <i style="color:#00ffff;">"Keep coding under neon lights..." 🌃</i>
 </p>
 
-<!-- Neon line footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00ffff&section=footer" />
 </p>
+
+</div>
+
+
