@@ -2,19 +2,31 @@
 
 <div align="center" style="background-color:#000000; padding:80px 0; font-family:'Courier New', monospace;">
 
-  <!-- Баннер -->
-  <p align="center">
-    <img src="<div class="tenor-gif-embed" data-postid="7586956107789552477" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/lain-serial-experiments-lain-anime-gif-7586956107789552477">Lain Serial Experiments Lain GIF</a>from <a href="https://tenor.com/search/lain-gifs">Lain GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="banner"/>
-  </p>
+<!-- Баннер -->
+<p align="center">
+  <img src="https://i.gifer.com/BjPl.gif" alt="cyberpunk banner"/>
+</p>
 
-  <!-- Мигающий текст как GIF (загрузи assets/hello-flicker.gif в свой репозиторий) -->
-  <p align="center" style="margin-top:40px;">
-    <img src="https://pin.it/7ujfpbUyi" alt="hello friend" />
-  </p>
+<!-- Анимация для мигания -->
+<style>
+@keyframes flicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    opacity: 1;
+  }
+  20%, 24%, 55% {
+    opacity: 0.3;
+  }
+}
+</style>
 
-  <!-- Подпись -->
-  <p style="color:#00ffff; font-size:17px; text-shadow: 0 0 6px #00cccc;">
-    me Roma. ebashu coding with coffee ☕
-  </p>
+<!-- Мигающий зелёный текст -->
+<h2 style="color:#00ff66; text-shadow: 0 0 5px #00ff66, 0 0 20px #009933; font-weight:normal; letter-spacing:1px; margin-top:40px; animation: flicker 2s infinite;">
+  hello friend_
+</h2>
+
+<!-- Подпись -->
+<p style="color:#00ffff; font-size:17px; text-shadow: 0 0 6px #00cccc;">
+  me Roma. ebashu coding with coffee ☕
+</p>
 
 </div>
