@@ -1,10 +1,10 @@
-<!-- 💀 Mr. Robot Neon Terminal by Roma — WORKING GIF VERSION -->
+<!-- Roma -->
 
 <div align="center" style="background-color:#000000; padding:80px 0; font-family:'Courier New', monospace;">
 
   <!-- Баннер -->
   <p align="center">
-    <img src="https://i.gifer.com/BjPl.gif" alt="cyberpunk banner"/>
+    <img src="https://tenor.com/jcCvc4hWsUb.gif" alt="banner"/>
   </p>
 
   <!-- Мигающий текст как GIF (загрузи assets/hello-flicker.gif в свой репозиторий) -->
