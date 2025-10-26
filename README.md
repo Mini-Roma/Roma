@@ -10,4 +10,8 @@
   eбaшу кодинг c ☕
 </p>
 
+<p align="center">
+  <img src="https://i.gifer.com/BjPl.gif" width="100%" height="250px" alt="cyberpunk banner"/>
+</p>
+
 </div>
