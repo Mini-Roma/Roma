@@ -9,7 +9,7 @@
 
   <!-- Мигающий текст как GIF (загрузи assets/hello-flicker.gif в свой репозиторий) -->
   <p align="center" style="margin-top:40px;">
-    <img src="https://raw.githubusercontent.com/aslameD/aslameD/main/assets/hello-flicker.gif" alt="hello friend" />
+    <img src="https://media.gifdb.com/anime-banner-gif-file-258kb-34t6i28dfmg9ei5n.gif" alt="hello friend" />
   </p>
 
   <!-- Подпись -->
