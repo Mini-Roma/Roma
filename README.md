@@ -1,4 +1,4 @@
-<!-- 🖤 Minimal Cyber Profile by Roma -->
+<!-- 🖤 Minimal Cyberpunk Profile by Roma -->
 
 <div align="center" style="background-color:#000000; padding:80px 0; color:#00ffff; font-family:monospace;">
 
@@ -10,8 +10,19 @@
   eбaшу кодинг c ☕
 </p>
 
+<!-- Баннер -->
 <p align="center">
-  <img src="https://i.gifer.com/BjPl.gif" width="100%" height="250px" alt="cyberpunk banner"/>
+  <img src="https://i.gifer.com/BjPl.gif" alt="cyberpunk banner"/>
+</p>
+
+<!-- Тускло-зелёный текст -->
+<h2 style="color:#00ff66; text-shadow: 0 0 5px #007733, 0 0 10px #004422; font-weight:normal;">
+  hello friend_
+</h2>
+
+<!-- О себе -->
+<p style="color:#00ffff; font-size:18px; text-shadow: 0 0 8px #00ffff;">
+  me Roma. ebashu coding with coffee ☕
 </p>
 
 </div>
