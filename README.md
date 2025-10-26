@@ -9,7 +9,7 @@
 
   <!-- Мигающий текст как GIF (загрузи assets/hello-flicker.gif в свой репозиторий) -->
   <p align="center" style="margin-top:40px;">
-    <img src="https://raw.githubusercontent.com/aslameD/aslameD/main/assets/hello-flicker.gif" alt="hello friend" />
+    <img src="https://i.gifer.com/NBUI.gif" alt="hello friend" />
   </p>
 
   <!-- Подпись -->
