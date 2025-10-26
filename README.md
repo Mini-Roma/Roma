@@ -1,7 +1,7 @@
 <!-- 🌸 Neon Anime GitHub Profile for aslameD -->
 
 <p align="center">
-  <img src="https://i.gifer.com/WpIw.gif" width="100%" alt="anime neon banner"/>
+  <img src="https://i.gifer.com/YQDs.gif" width="100%" alt="anime neon banner"/>
 </p>
 
 <h1 align="center">💫 Welcome to aslameD's World 💫</h1>
@@ -22,17 +22,11 @@
 ---
 
 ### 🎧 Music Corner
-<p align="center">
-  🎵 <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">Lo-Fi Anime Mix — chill & code</a>
-</p>
-
----
-
-### 🩵 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslameD&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslameD&theme=transparent&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" height="150" />
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+    <img src="https://img.shields.io/badge/🎧_LoFi_Anime_Mix-00FFFF?style=for-the-badge&logo=youtube&logoColor=white" alt="LoFi Music Button" />
+  </a>
 </p>
 
 ---
@@ -62,13 +56,3 @@
 ### 🌸 Quote
 
 > *“Even code can shine brighter than city lights.” — aslameD 💫*
-
----
-
-<p align="center">
-  <img src="https://i.gifer.com/7scx.gif" width="100%" alt="anime neon ending"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="120" alt="Cute anime gif"/>
-</p>
